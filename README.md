@@ -5,7 +5,8 @@ Are the days nearing to your loved ones special day? If you're out of birthdya g
 ## Introduction
 
 This is a great birthday gift using Python Libraries. 
-
+The python code simply parses, filters your whatsapp text chat, filters out redundant words and prints out the most frequently exchanged words in your chat. 
+A great way of looking at the things you speak about the most with our loved one!
 
 
 ![Test Image 1](word_cloud.jpeg)
