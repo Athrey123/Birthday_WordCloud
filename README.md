@@ -1,7 +1,7 @@
 
 # Birthday_WordCloud
 A great birthday gift using Python Libraries!
-![Test Image 1](IU.jpg)
+![Test Image 1](word_cloud.png)
 ## Installation
 
 Clone this repository with 
