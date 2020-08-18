@@ -1,6 +1,6 @@
 
 # Birthday_WordCloud
-Are the days nearing to your loved ones special day? If you're out of birthdya gift ideas, here's a quick and creative gift for you!
+Are the days nearing to your loved ones special day? If you're out of birthday gift ideas, here's a quick and creative gift for you!
 
 ## Introduction
 
