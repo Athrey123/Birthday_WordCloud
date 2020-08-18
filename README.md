@@ -9,7 +9,7 @@ The python code simply parses, filters your whatsapp text chat, filters out redu
 A great way of looking at the things you speak about the most with our loved one!
 
 
-![Test Image 1](word_cloud.jpeg)
+![Word Cloud](word_cloud.jpeg)
 ## Installation
 
 Clone this repository with 
